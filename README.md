@@ -1,4 +1,4 @@
 1-5 главы выполнил
 
-Остановился на 6.10
-https://learn.javascript.ru/bind
+Остановился на 8.2 Function prototype
+https://learn.javascript.ru/function-prototype
