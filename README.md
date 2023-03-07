@@ -1,4 +1,4 @@
-1-5 главы выполнил
-
-Остановился на 8.2 Function prototype
-https://learn.javascript.ru/function-prototype
+Остановился на:
+Часть 2
+Документ 1.1
+https://learn.javascript.ru/browser-environment
