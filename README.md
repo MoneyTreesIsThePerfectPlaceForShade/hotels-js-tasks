@@ -1,4 +1,4 @@
 Остановился на:
 Часть 2
-Введение в события 1.1
-https://learn.javascript.ru/introduction-browser-events
+3.2 Движение мыши: mouseover/out, mouseenter/leave
+https://learn.javascript.ru/mousemove-mouseover-mouseout-mouseenter-mouseleave
